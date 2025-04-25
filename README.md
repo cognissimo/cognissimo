@@ -1,5 +1,5 @@
 # Cognissimo
-[Cognissimo](https://cognissimo.io) is using AI-powered precision speech correction technology to revolutionise speech therapy and language learning.
+[Cognissimo](https://cognissimo.io) is using AI-powered precision speech correction technology to democratise speech therapy and language learning.
 
 ## Products
 ### Children's speech correction
@@ -12,14 +12,14 @@ Cognissimo uses AI-powered cognitive stimulation techniques to improve the speec
 Cognissimo's AI helps students learn and practice hundreds of common and rarely spoken languages without the need for a human teacher, perfecting their pronunciation with instant and highly precise feedback.
 
 ## About us
-Cognissimo uses a custom AI model to transform precision speech recognition, bringing together cognitive linguistics and deep learning with speech therapy and language teaching methods.
+Cognissimo uses a custom AI model to transform speech recognition with unparalleled accuracy, bringing together cognitive linguistics and deep learning with speech therapy and language teaching methods.
 
-While Cognissimo eliminates the need to practice with a human speech therapist or language teacher, it can also provide them with an additional tool for combined in-person and AI practice. Our breakthrough solutions therefore tailor modern AI and speech recognition technology to the needs of patients, students, clinics and schools.
+While Cognissimo eliminates the need to practice with a human speech therapist or language teacher, it can also provide them with an additional tool for combined in-person and AI practice. Our breakthrough solutions, available as applications and APIs, tailor modern AI and speech recognition technology to the needs of patients, students, clinics and schools.
 
 ## Our advantage
 1. **Unmatched precision:** Experience AI technology with above human-level precision and higher accuracy than Big Tech alternatives. We solve the problem of existing automatic speech recognition (ASR) systems, which rely on approximation and predicting techniques to detect speech.
 
-2. **Hundreds of languages:** Learn popular languages like French and Spanish as well as rare languages and dialects for which computer modelling has not been implemented. This includes Swiss German, Basque, Alsatian, Breton, Yiddish, Arabic dialects and ancient languages like Aramaic.
+2. **Hundreds of languages:** Learn popular languages like French and Spanish as well as rare languages and dialects for which computer modelling has not been implemented, e.g. Swiss German, Basque, Alsatian, Breton, Yiddish, Arabic dialects and ancient languages like Aramaic.
 
 3. **Phonological approach:** Improve learners' ability to produce their own sentences and speak accurately and confidently. Unlike existing language apps, our solutions detect and correct speakers' articulation, prosody and pronunciation.
 
