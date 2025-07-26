@@ -3,7 +3,7 @@
 
 ## Products
 ### Children's speech correction
-Cognissimo leverages AI to identify and correct cognitive and speech issues common among children, including speech delay, lisp, stuttering, apraxia, dyslalia, dysarthria, voice disorder, autism spectrum disorder and accent reduction. Visit the [Mora Therapy](https://github.com/cognissimo/mora-therapy) repository or [moratherapy.app](https://moratherapy.app) for more information.
+Cognissimo leverages AI to identify and correct cognitive and speech issues common among children, including speech delay, lisp, stuttering, apraxia, dyslalia, dysarthria, voice disorder, autism spectrum disorder and accent reduction. Visit the [Animora](https://github.com/cognissimo/animora) repository or [animora.app](https://animora.app) for more information.
 
 ### Adult cognitive stimulation
 Cognissimo uses AI-powered cognitive stimulation techniques to improve the speech of dementia, stroke and Alzheimer's disease patients among adults and the elderly.
