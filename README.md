@@ -1,5 +1,5 @@
 # Cognissimo
-[Cognissimo](https://cognissimo.io) is using AI-powered precision speech correction technology to democratise speech therapy and language learning.
+Cognissimo is using AI-powered precision speech correction technology to democratise speech therapy and language learning.
 
 ## Products
 ### Children's speech correction
